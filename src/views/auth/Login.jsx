@@ -120,9 +120,7 @@ const Login = () => {   //na@gmail.com , motdepasse : 222
                                 </div>
                         </div>
                         <div class="form-group">
-                            <div class="col-md-6">
-                                <a href="#" class="btn btn-link btn-block">Forgot your password?</a>
-                            </div>
+                           
                             <div class="col-md-6">
                                 <button type='submit' class="btn btn-info btn-block">Log In</button>
                             </div>
@@ -130,14 +128,7 @@ const Login = () => {   //na@gmail.com , motdepasse : 222
                         </form>
                     </div>
                     <div class="login-footer">
-                        <div class="pull-left">
-                            &copy; 2014 AppName
-                        </div>
-                        <div class="pull-right">
-                            <a href="#">About</a> |
-                            <a href="#">Privacy</a> |
-                            <a href="#">Contact Us</a>
-                        </div>
+                      
                     </div>
                 </div>
                 
